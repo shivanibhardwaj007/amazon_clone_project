@@ -5,12 +5,6 @@ It replicates the **homepage UI of Amazon**, showcasing responsive layout, produ
 
 ---
 
-## 📸 Screenshot
-![Amazon Clone Screenshot](screenshot.png)  
-*(Replace with your actual project screenshot)*
-
----
-
 ## 🚀 Features
 - ✅ Navigation bar with logo, search bar, and account/cart options  
 - ✅ Hero section with promotional banner  
